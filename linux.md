@@ -1,53 +1,61 @@
-# Linux Interview Questions
-How can you see which kernel version a system is currently running
+# Interview Questions
 
-```
-$ uname -v
-```
+- How can you see which kernel version a system is currently running
 
-how can you check a systems current ip address
+  ```
+  $ uname -v
+  ```
 
-```
-$ ip addr
-```
+- how can you check a systems current ip address
 
-how do you check for free disk space
+  ```
+  $ ip addr
+  ```
 
-```
-$ df -h
-```
-how do you manage services on a system
+- how do you check for free disk space
 
-```
-$ du -h
-```
-how would you check the size of a directory's contents on a disk
+  ```
+  $ df -h
+  ```
 
-```
-$ du -sh <path_to_dir>
-```
-how would you check for open ports on a linux machine
+- how do you manage services on a system
 
-```
-$ netstat
-```
-how do you check CPU usage for a process
+  ```
+  $ du -h
+  ```
 
-```
-$ top
-```
-Dealing with mounts
+- how would you check the size of a directory's contents on a disk
 
-```
-$ mount
-```
-how do you look up something you don't know
+  ```
+  $ du -sh <path_to_dir>
+  ```
 
-```
-$ man
-```
-what do you do when you can't find an answer in a man page
+- how would you check for open ports on a linux machine
 
-```
-$ man -k
-```
+  ```
+  $ netstat
+  ```
+
+- how do you check CPU usage for a process
+
+  ```
+  $ top
+  ```
+
+- Dealing with mounts
+
+  ```
+  $ mount
+  ```
+
+- how do you look up something you don't know
+
+  ```
+  $ man
+  ```
+
+- what do you do when you can't find an answer in a man page
+
+  ```
+  $ man -k
+  ```
