@@ -1,4 +1,4 @@
-# Interview Questions
+# Linux Interview Questions
 
 - How can you see which kernel version a system is currently running
 
