@@ -61,3 +61,27 @@
   ```
   $ man -k
   ```
+
+
+- #### Other Useful Commands
+
+- Use the `grep` command to search for something specific in a file or outputted text
+
+- Use `rsync` to remotely copy files
+
+- `journalctl` can be used to display the logs of servers
+
+- Software Managers:
+  - Ubuntu / Debian: `apt`
+  - Fedora / Enterprise Linux: `dnf`
+  - Suse: `zypper`
+
+- `ps` short synopsys of running processes
+
+- `ls` is used to list all the files and directories in a specific folder or in your current directory
+
+- `chown` to change ownership to file or directory
+
+- `chmod` change what the user can do to the file or directory
+
+- `systemctl` interact with services that are running or start running them
